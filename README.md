@@ -23,7 +23,7 @@ Follow these instructions to get the application running on your local machine.
 1.  **Clone the repository (or download the source code):**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name.git
+    git clone https://github.com/your-username/your-repository-name](https://github.com/cliffr39/youtube_research.git
     cd your-repository-name
     ```
 
@@ -63,7 +63,7 @@ Follow these instructions to get the application running on your local machine.
     Execute the script from your terminal:
 
     ```bash
-    python gemini2_youtube.py
+    python youtube.py
     ```
 
 ## How to Use
