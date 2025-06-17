@@ -23,7 +23,7 @@ Follow these instructions to get the application running on your local machine.
 1.  **Clone the repository (or download the source code):**
 
     ```bash
-    git clone https://github.com/your-username/your-repository-name](https://github.com/cliffr39/youtube_research.git
+    git clone https://github.com/cliffr39/youtube_research.git
     cd your-repository-name
     ```
 
@@ -45,7 +45,7 @@ Follow these instructions to get the application running on your local machine.
       - Copy the generated API key.
 
 4.  **Configure the API Key:**
-    In the main Python script (`gemini2_youtube.py` or your file name), locate the following line:
+    In the main Python script (`youtube.py` or your file name), locate the following line:
 
     ```python
     API_KEY = os.environ.get('YOUTUBE_API_KEY', 'YOUR_API_GOES_HERE')
