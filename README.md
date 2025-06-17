@@ -53,13 +53,13 @@ Follow these instructions to get the application running on your local machine.
     In the main Python script (`gemini2_youtube.py` or your file name), locate the following line:
 
     ```python
-    API_KEY = os.environ.get('YOUTUBE_API_KEY', 'AIzaSyCH-nEjWQW4yr1jRdmIsNTO9KL-g-ypbDo')
+    API_KEY = os.environ.get('YOUTUBE_API_KEY', 'YOUR_API_GOES_HERE')
     ```
 
     Replace the placeholder key with your actual API key:
 
     ```python
-    API_KEY = os.environ.get('YOUTUBE_API_KEY', 'YOUR-REAL-API-KEY-HERE')
+    API_KEY = os.environ.get('YOUTUBE_API_KEY', 'YOUR_API_GOES_HERE')
     ```
 
     *Alternatively, for better security, you can set it as a system environment variable named `YOUTUBE_API_KEY`.*
