@@ -1,8 +1,3 @@
-# youtube_research
-Of course. Here is a cleaned-up and formatted `README.md` file suitable for GitHub, based on the information and images you provided.
-
------
-
 # YouTube Video Idea Optimizer
 
 A desktop application built with Python and PyQt6 designed to help content creators research and optimize their video ideas. By leveraging the YouTube Data API, this tool analyzes top-ranking videos for a given topic and provides actionable insights to improve your video's title, keywords, and thumbnail.
