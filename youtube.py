@@ -15,7 +15,7 @@ from PyQt6.QtWidgets import (
 from PyQt6.QtCore import Qt, QThread, pyqtSignal, QObject, QTimer, QRunnable, QThreadPool, QRect, QSize, QPoint
 from PyQt6.QtGui import QFont, QColor, QPixmap
 
-API_KEY = os.environ.get('YOUTUBE_API_KEY', 'AIzaSyCH-nEjWQW4yr1jRdmIsNTO9KL-g-ypbDo')
+API_KEY = os.environ.get('YOUTUBE_API_KEY', 'YOUR_API_GOES_HERE')
 
 
 # --- Custom FlowLayout Class ---
