@@ -3,8 +3,7 @@ Python app to check out potential YouTube video ideas for content creators.<br>
 <br>
 How to Use This Program:<br>
 
-Install the library: Open your terminal or command prompt and run:<br>
-pip install google-api-python-client<br>
+Install the library: Open your terminal or command prompt and run: pip install google-api-python-client<br>
 <br>
 Get a YouTube Data API Key:<br>
 Go to the Google Cloud Console.<br>
